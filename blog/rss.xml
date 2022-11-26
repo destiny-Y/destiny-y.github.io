@@ -4,10 +4,22 @@
         <title>Destiny Blog</title>
         <link>https://destiny-y.github.io/blog</link>
         <description>Destiny Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[冬念]]></title>
+            <link>https://destiny-y.github.io/blog/something</link>
+            <guid>something</guid>
+            <pubDate>Sat, 26 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[朝斗坛前山月幽，师雄有梦生清愁。]]></description>
+            <content:encoded><![CDATA[<p>朝斗坛前山月幽，师雄有梦生清愁。
+何时杖尔看南雪，我与梅花两白头。</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>冬天总是有那么多难过</category>
+            <category>destiny</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://destiny-y.github.io/blog/welcome</link>
